@@ -8,5 +8,9 @@ public class GitTest
     public static void main(String[] args)
     {
         System.out.println("和奥多久啊口水都快安徽省");
+        System.out.println("和奥多久啊口水都快安徽省");
+        System.out.println("和奥多久啊口水都快安徽省");
+        System.out.println("和奥多久啊口水都快安徽省");
+        System.out.println(" We was both young when I first saw you");
     }
 }
